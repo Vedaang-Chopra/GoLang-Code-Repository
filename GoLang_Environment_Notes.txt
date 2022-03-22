@@ -1,0 +1,12 @@
+Go Command Line Commands
+
+go help: - Command for help
+go help <package name>: - Command for help on package
+
+go env: - Find out environment variables set for go language
+
+go run <file name>: - Command to run go code
+
+go fmt <file name>: - Format the entire code int he file (fix it for reading)
+
+go
